@@ -9,7 +9,7 @@
         <item quantity="one">%d ausgewählt</item>
         <item quantity="other">%d ausgewählt</item>
     </plurals>
-    <string name="history">Hörverlauf</string>
+    <string name="history">Verlauf</string>
     <string name="stats">Statistiken</string>
     <string name="mood_and_genres">Stimmung und Genres</string>
     <string name="account">Konto</string>
@@ -467,7 +467,7 @@
     <string name="sort_descending">Absteigend sortieren</string>
     <string name="sort_ascending">Aufsteigend sortieren</string>
     <string name="your_collection">Deine Sammlung</string>
-    <string name="playing_desc">Spielt</string>
+    <string name="playing_desc">Läuft</string>
     <string name="tracks_label">Titel</string>
     <string name="song_singular">Song</string>
     <string name="more_playlists_desc">Weitere Playlists</string>
@@ -521,8 +521,6 @@
     <string name="widget_previous">Vorheriger</string>
     <string name="widget_tap_to_open">Tippe, um ArchiveTune zu öffnen</string>
     <string name="removed_n_songs_from_queue">%d Songs aus der Warteschlange entfernt</string>
-    <string name="aod_mode">AOD-Modus</string>
-    <string name="aod_mode_exit">AOD verlassen</string>
     <string name="sort_by_most_played">Meistgespielt</string>
     <string name="slider_style_wavy">Wellig</string>
     <string name="slider_style_thick">Dick</string>
@@ -1057,7 +1055,9 @@
     <string name="custom_background_adjustments_description">Bild in beiden Vorschauen anpassen.</string>
     <string name="eq_bass_boost_description">Wirkung tiefer Frequenzen verstärken</string>
     <string name="widget_top_song_summary">Aktuell Top: %1$s</string>
-    <string name="custom_background_subtitle">Vorschau und Anpassung des Players und des Hintergrunds für die Liedtexte</string>
+    <string name="custom_background_subtitle">Vorschau und Anpassung des Players und des Hintergrunds für die Songtexte</string>
     <string name="custom_background_preview_player">Player</string>
     <string name="custom_background_permission_error">ArchiveTune konnte den Zugriff auf dieses Bild nicht aufrechterhalten.</string>
+    <string name="eq_signal">Signal</string>
+    <string name="enable_betterlyrics_portato">BetterLyrics Portato aktivieren</string>
 </resources>
