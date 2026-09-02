@@ -1008,7 +1008,6 @@
     <string name="joined">Unito</string>
     <string name="loading">Caricamento</string>
     <string name="connecting">Connessione in corso</string>
-    <string name="copy_link">Copia il link</string>
     <string name="together_host_section">Host</string>
     <string name="together_join_section">Unisciti</string>
     <string name="together_status">Stato</string>
