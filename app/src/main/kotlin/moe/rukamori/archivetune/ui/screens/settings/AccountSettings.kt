@@ -187,7 +187,6 @@ fun AccountSettings(
     val accountNameFromViewModel by viewModel.accountName.collectAsStateWithLifecycle()
     val accountImageUrl by viewModel.accountImageUrl.collectAsStateWithLifecycle()
     val accountChannelsState by viewModel.accountChannelsState.collectAsStateWithLifecycle()
-
     val displayName =
         when {
             accountNameFromViewModel.isNotBlank() -> accountNameFromViewModel

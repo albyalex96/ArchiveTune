@@ -601,8 +601,6 @@
     <string name="block_artist">Bloquear artista</string>
     <string name="unblock_artist">Desbloquear artista</string>
     <string name="player_stream_client_archivetune_extractor">Extrator do ArchiveTune</string>
-    <string name="player_stream_client_archivetune_extractor_desc">Utiliza o extrator de back-end do ArchiveTune para fluxos de reprodução. Dá preferência ao áudio de alta qualidade automático.</string>
-    <string name="player_stream_client_archivetune_extractor_login_required">Para usar esse recurso, você precisa fazer login usando sua conta do Google e o Token Po nas configurações</string>
     <string name="stats_top_songs">Top músicas</string>
     <string name="stats_show_all_songs">Mostrar todas as %1$d músicas</string>
     <string name="stats_show_top_songs">Mostrar top 5</string>
@@ -642,4 +640,10 @@
     <string name="release_type_album">Álbum</string>
     <string name="release_type_single">Single</string>
     <string name="release_metadata">%1$s • %2$d</string>
+    <string name="aod_customize_show_lyric_ticker">Mostrar barra de letras</string>
+    <string name="aod_background_adaptive_art">Arte adaptativa</string>
+    <string name="aod_background_frosted_wallpaper">Papel de parede fosco</string>
+    <string name="aod_background_adaptive_frosted">Fosco adaptativo</string>
+    <string name="aod_clock_bold_digital">Negrito digital</string>
+    <string name="aod_clock_minimal">Mínimo</string>
 </resources>

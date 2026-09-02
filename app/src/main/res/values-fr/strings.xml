@@ -668,8 +668,6 @@
     <string name="total_requests">Nombre total de demandes</string>
     <string name="success_rate">Taux de réussite</string>
     <string name="providers">Fournisseurs</string>
-    <string name="aod_mode">Mode AOD</string>
-    <string name="aod_mode_exit">Quitter AOD</string>
     <string name="error_malformed_stream">Erreur source</string>
     <string name="support_development_title">Soutenir le développement</string>
     <string name="support_development_message">Salut ! Je m\'appelle rukamori, je suis le développeur d\'ArchiveTune. Si ArchiveTune fait désormais partie de vos habitudes d\'écoute quotidiennes, vous pouvez contribuer à son développement en faisant un don ou en ajoutant le projet à vos favoris sur GitHub. Merci de soutenir le travail qui se cache derrière cette application.</string>
@@ -1120,4 +1118,5 @@
     <string name="scheduled_backup_update_failed">Impossible d\'enregistrer les paramètres de sauvegarde planifiée</string>
     <string name="gatekeeper_connection_blocked">Connexion bloquée par ArchiveTune Remote. Il n\'a pas été possible de vérifier que cette application correspondait à une version officielle d\'ArchiveTune. Installez une version officielle à partir de https://github.com/rukamori/ArchiveTune ou https://t.me/ArchiveTuneGC.</string>
     <string name="enable_megalobiz_lyrics">Activer les paroles de Megalobiz</string>
+    <string name="enable_betterlyrics_portato">Activer BetterLyrics Portato</string>
 </resources>
